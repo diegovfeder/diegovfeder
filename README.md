@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on [culltive.me](https://culltive.me/) an automated garden solution!
 
+- But also a very passionate creator at (https://grifemusic.com) as a duo :)
+
 - 💬 Ask me about anything! You'll find me almost anywhere by @diegovfeder
 
 <!--
