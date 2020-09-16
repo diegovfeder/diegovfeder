@@ -4,7 +4,7 @@
 
 - 💥 I'm also a very passionate creator as [grifemusic.com](https://grifemusic.com/) :)
 
-- 💬 Ask me about any stuff I'd be happy to answer! You'll find me almost anywhere by @diegovfeder :dove:
+- 💬 Ask me about anything I'd be happy to dialogue! You'll find me almost anywhere by @diegovfeder :dove:
 
 <!--
 **diegovfeder/diegovfeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
