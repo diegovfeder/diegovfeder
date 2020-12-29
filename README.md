@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m working on [culltive.me](https://culltive.me/) an automated garden solution!
+- 👯 I’m currently working as a full-time remote developer at dextra :D
+
+- 🌱 I worked on [culltive.me](https://culltive.me/) an automated garden solution!
 
 - 💥 I'm also a very passionate creator as [grifemusic.com](https://grifemusic.com/) :)
 
