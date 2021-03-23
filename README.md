@@ -1,13 +1,14 @@
 # Hi there 👋
 
-My name is Diego Feder and I'm a brazilian dev with a bachelor on Electrical and Computer Engineering. 
+My name is Diego Feder and I'm a brazilian dev with a bachelor on Electrical and Computer Engineering.
+
 ## About
 
-- 👯 I’m currently working as a full-time remote developer at dextra :D
+- 👯 I’m currently working as a full-time remote mobile app engineer at dextra :D
 
-- 🌱 I worked on [culltive.me](https://culltive.me/) an automated garden solution!
+- 🌱 Also had the opportunity to work on [culltive.me](https://culltive.me/) an automated garden solution!
 
-- 💥 I'm also a very passionate creator as [grifemusic.com](https://grifemusic.com/) :)
+- 💥 Additionaly, I'm a very passionate creator as [grifemusic.com](https://grifemusic.com/) :)
 
 - 💬 Ask me about anything I'd be happy to dialogue! You'll find me almost anywhere by @diegovfeder :dove:
 
