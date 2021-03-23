@@ -1,5 +1,7 @@
 # Hi there 👋
 
+## About
+
 - 👯 I’m currently working as a full-time remote developer at dextra :D
 
 - 🌱 I worked on [culltive.me](https://culltive.me/) an automated garden solution!
@@ -10,19 +12,19 @@
 
 **Languages and Tools:**  
 
-Typescript
+- Typescript
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-React Native
+- React Native
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
-Node
+- Node
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-Firebase
+- Firebase
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-Jest
+- Jest
 <code><img height="20" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png"></code>
 
 <!--
