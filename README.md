@@ -12,7 +12,7 @@ My name is Diego Feder and I'm a brazilian dev with a bachelor on Electrical and
 
 - 💬 Ask me about anything I'd be happy to dialogue! You'll find me almost anywhere by @diegovfeder :dove:
 
-**Languages and Tools:**  
+## Languages and Tools
 
 - Typescript
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
