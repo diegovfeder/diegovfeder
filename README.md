@@ -1,5 +1,6 @@
 # Hi there 👋
 
+My name is Diego Feder and I'm a brazilian dev with a bachelor on Electrical and Computer Engineering. 
 ## About
 
 - 👯 I’m currently working as a full-time remote developer at dextra :D
