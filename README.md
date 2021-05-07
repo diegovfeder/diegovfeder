@@ -19,6 +19,7 @@ My name is Diego Feder and I'm a brazilian dev with a bachelor on Electrical and
 
 - React Native
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+  - Fastlane
 
 - Node
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -28,6 +29,7 @@ My name is Diego Feder and I'm a brazilian dev with a bachelor on Electrical and
 
 - Jest
 <code><img height="20" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png"></code>
+ - @testing-library
 
 <!--
 **diegovfeder/diegovfeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
