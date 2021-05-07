@@ -29,7 +29,7 @@ My name is Diego Feder and I'm a brazilian dev with a bachelor on Electrical and
 
 - Jest
 <code><img height="20" src="https://cdn.auth0.com/blog/testing-react-with-jest/logo.png"></code>
- - @testing-library
+  - @testing-library
 
 <!--
 **diegovfeder/diegovfeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
