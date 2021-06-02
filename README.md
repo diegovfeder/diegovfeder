@@ -1,10 +1,13 @@
 # Hi there 👋
 
-My name is Diego Feder and I'm a brazilian dev with a bachelor on Electrical and Computer Engineering.
+My name is Diego Feder and I'm a brazilian dev working remotely since covid 🙃
 
 ## About
 
-- 👯 I’m currently working as a full-time remote frontend and app engineer at dextra :D
+- 👯 I’m currently working full-time as frontend and app engineer at Dextra
+  - AT&T TV Demo App
+  - Tudobem (https://ficatudobem.com.br)
+  - iCapitalNetwork (https://www.icapitalnetwork.com)
 
 - 🌱 Also had the opportunity to work on [culltive.me](https://culltive.me/) an automated garden solution!
 
