@@ -4,7 +4,7 @@ My name is Diego Feder and I'm a brazilian dev with a bachelor on Electrical and
 
 ## About
 
-- 👯 I’m currently working as a full-time remote mobile app engineer at dextra :D
+- 👯 I’m currently working as a full-time remote frontend and app engineer at dextra :D
 
 - 🌱 Also had the opportunity to work on [culltive.me](https://culltive.me/) an automated garden solution!
 
