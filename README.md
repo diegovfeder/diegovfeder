@@ -4,12 +4,12 @@ My name is Diego Feder and I'm a brazilian dev working remotely since covid 🙃
 
 ## About
 
-- 👯 I’m currently working full-time as frontend and app engineer at Dextra
+- 👯 I’m currently working full-time as frontend and app engineer at Dextra. Here are some projects that I've had the opportunity to contribute:
   - AT&T TV Demo App
   - Tudobem (https://ficatudobem.com.br)
   - iCapitalNetwork (https://www.icapitalnetwork.com)
 
-- 🌱 Also had the opportunity to work on [culltive.me](https://culltive.me/) an automated garden solution!
+- 🌱 I also did some startup full-stack and IoT engineering work on [culltive.me](https://culltive.me/) an automated garden solution.
 
 - 💥 Additionaly, I'm a very passionate creator as [grifemusic.com](https://grifemusic.com/) :)
 
