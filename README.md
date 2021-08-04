@@ -4,7 +4,7 @@ My name is Diego Feder and I'm a brazilian dev working remotely since covid 🙃
 
 ## About
 
-👯 I’m currently working full-time as frontend and app engineer at Dextra. Here are some projects that I've had the opportunity to contribute:
+👯 - I’m currently working full-time as frontend and app engineer at Dextra. Here are some projects that I've had the opportunity to contribute:
   - AT&T TV Demo App
   - Tudobem (https://ficatudobem.com.br)
   - iCapitalNetwork (https://www.icapitalnetwork.com)
