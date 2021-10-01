@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Diego Feder and I'm a brazilian dev working remotely since covid 🙃
+My name is Diego Feder and I'm a brazilian developer working remotely since covid 🙃
 
 ## About
 
