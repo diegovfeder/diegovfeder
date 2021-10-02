@@ -11,6 +11,8 @@ My name is Diego Feder and I'm a brazilian developer working remotely since covi
   - Tudobem (https://ficatudobem.com.br)
 
 💥 - Additionaly, I'm a very passionate creator as [grifemusic.com](https://grifemusic.com/) :)
+  - Check us out at [Spotify](https://open.spotify.com/artist/0peVkBhumiuUyxMqc9EGUR)
+  - Or [Soundcloud](https://soundcloud.com/grifemusic)
 
 💬 - Ask me about anything I'd be happy to dialogue! You'll find me almost anywhere by @diegovfeder :dove:
 
