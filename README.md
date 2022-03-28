@@ -4,7 +4,7 @@ My name is Diego Feder and I'm a brazilian developer working remotely since covi
 
 ## About
 
-👯 I’m currently working full-time as frontend and app engineer at Tarmac.io. Here are some projects that I've had the opportunity to contribute:
+👯 I’m currently working full-time as frontend engineer at Tarmac.io. Here are some projects that I've had the opportunity to contribute:
 - Lucra Sports (https://lucrasports.com)
 - iCapitalNetwork (https://www.icapitalnetwork.com)
 - AT&T TV Demo App (https://www.att.com/tv)
