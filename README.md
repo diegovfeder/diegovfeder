@@ -44,7 +44,7 @@ My name is Diego Feder and I'm a brazilian developer working remotely since covi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 - Prisma
-<code><img height="20" src="https://images.tute.io/tute/topic/prisma.png"></code>
+<code><img height="20" src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png"></code>
 
 - Firebase
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
