@@ -5,6 +5,8 @@ My name is Diego Feder and I'm a brazilian developer working remotely since covi
 ## About
 
 👯 I’m currently working full-time as frontend engineer at Tarmac.io. Here are some projects that I've had the opportunity to contribute:
+
+- Nexben (https://www.nexben.com)
 - Lucra Sports (https://lucrasports.com)
 - iCapitalNetwork (https://www.icapitalnetwork.com)
 - AT&T TV Demo App (https://www.att.com/tv)
@@ -13,7 +15,7 @@ My name is Diego Feder and I'm a brazilian developer working remotely since covi
 
 
 💥 Additionaly, I'm a very passionate creator as [grifemusic.com](https://grifemusic.com/) :)
-- Check us out at [Spotify](https://open.spotify.com/artist/0peVkBhumiuUyxMqc9EGUR)
+- Check us out on [Spotify](https://open.spotify.com/artist/0peVkBhumiuUyxMqc9EGUR)
 - Or [Soundcloud](https://soundcloud.com/grifemusic)
 
 
