@@ -6,6 +6,7 @@ My name is Diego Feder and I'm a brazilian developer working remotely since covi
 
 👯 I’m currently working full-time as frontend engineer at Tarmac.io. Here are some projects that I've had the opportunity to contribute:
 
+- Augeo | Structual (https://www.augeomarketing.com/solutions/workplace-engagement-structural)
 - Nexben (https://www.nexben.com)
 - Lucra Sports (https://lucrasports.com)
 - iCapitalNetwork (https://www.icapitalnetwork.com)
